@@ -59,6 +59,8 @@ Create a new folder for your project called `calculator_bdd`:
 
 ```
 calculator_bdd/
+
+mkdir calculator_bdd
 ```
 
 ### Step 2: Open in VS Code
