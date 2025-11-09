@@ -42,6 +42,7 @@ You should see the version number displayed (e.g., `behave 1.2.6`)[37].
 2. Go to Extensions (Ctrl+Shift+X or Cmd+Shift+X on Mac)
 3. Search for "Behave VSC" by jimasp
 4. Click Install[8]
+<img width="526" height="133" alt="image" src="https://github.com/user-attachments/assets/80dac5d8-acd9-4ea0-aadf-06f8cd2e0468" />
 
 This extension provides:
 - Syntax highlighting for Gherkin feature files
