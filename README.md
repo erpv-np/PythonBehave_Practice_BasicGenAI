@@ -252,7 +252,7 @@ Feature: Simple Calculator
 
 To debug your tests in VS Code, create a launch configuration[2][5]:
 
-1. Click on the Debug icon in the left sidebar (or press Ctrl+Shift+D)
+1. Click on the "Run & Debug" icon in the left sidebar (or press Ctrl+Shift+D)
 2. Click "create a launch.json file"
 3. Add this configuration:
 
